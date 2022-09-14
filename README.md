@@ -6,4 +6,4 @@
 
 -check for the local port 8070 close application if any running in this port.
 
--context patth will be http://localhost:8970/prosphore/**
+-context patth will be http://localhost:8970/treeleaf/**
